@@ -20,7 +20,7 @@
                 <div class="col-6">
                     <div class="form-group">
                         <label for="input-c">TC Kimlik Numarası</label>
-                        <input type="text" class="form-control" id="input-c" prm="c">
+                        <input type="text" class="form-control" id="input-c" prm="c" maxlength="11">
                     </div>
                 </div>
                 <div class="col-6">
